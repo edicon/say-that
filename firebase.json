@@ -6,11 +6,6 @@
     "rules": "storage.rules"
   },
   "hosting": {
-    "public": "public",
-    "redirects": [ {
-		"source" : "/source",
-		"destination" : "https://github.com/laurenzlong/say-that",
-		"type" : 302
-	} ]
+    "public": "public"
   }
 }
