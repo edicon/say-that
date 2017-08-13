@@ -4,11 +4,11 @@
       "es6",
       "es2015.promise"
     ],
-    "module": "commonjs",
-    "noImplicitAny": false,
-    "outDir": "lib",
-    "stripInternal": true,
     "target": "es5",
+    "module": "commonjs",
+    "outDir": "lib",
+    "noImplicitAny": false,
+    "stripInternal": true,
     "typeRoots": [
       "node_modules/@types"
     ]
